@@ -1,11 +1,12 @@
-# Hello, I'm [Your Name] 👋
-> Software Developer specializing in Bedrock Engine | Game Modification Expert
+# Hello, I'm Veedy 👋
+> Software Developer specializing in Bedrock API | Software Engineer
 
 ## About Me
-I create tools and experiences that enhance gameplay, focusing on Bedrock Engine development and game modifications.
+I create tools and scripts with a focus on enhancing gameplay through Bedrock API development and game modifications.
 
 ## 🛠️ Technologies & Tools
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -24,18 +25,8 @@ I create tools and experiences that enhance gameplay, focusing on Bedrock Engine
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://discord.gg/veedy">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
-## 📌 Pinned Repositories
-<p align="center">
-  <a href="https://github.com/veedy-dev/REPO_NAME">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veedy-dev&repo=REPO_NAME&theme=dark" />
-  </a>
-  <a href="https://github.com/veedy-dev/ANOTHER_REPO">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veedy-dev&repo=ANOTHER_REPO&theme=dark" />
+  <a href="https://discord.com/users/337585778140119041">
+    <img src="https://lanyard.cnrad.dev/api/337585778140119041" alt="Discord Presence" />
   </a>
 </p>
 
