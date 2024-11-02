@@ -14,8 +14,8 @@ I create tools and scripts with a focus on enhancing gameplay through Bedrock AP
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veedy-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veedy-dev&layout=compact&langs_count=8&theme=dark&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veedy-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&include_orgs=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veedy-dev&layout=compact&langs_count=8&theme=dark&count_private=true&include_all_commits=true&include_orgs=true"/>
 </p>
 
 ## 🔥 Streak Stats
