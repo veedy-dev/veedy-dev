@@ -2,7 +2,7 @@
 > Software Developer specializing in Bedrock API | Software Engineer
 
 ## About Me
-I create tools and scripts with a focus on enhancing gameplay through Bedrock API development and game modifications.
+I'm a software developer passionate about building applications that make life easier and more efficient. Interest in AI learning & services, to create intelligent and useful tools. I thrive on turning complex problems into simple, elegant solutions.
 
 ## 🛠️ Technologies & Tools
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
