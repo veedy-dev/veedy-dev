@@ -40,20 +40,20 @@ I thrive on turning complex problems into simple, elegant solutions.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veedy-dev&theme=default" alt="Profile Summary" />
 
-<table>
+<table style="border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veedy-dev&theme=default" alt="Repos per Language" />
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veedy-dev&theme=default" alt="Most Commit Language" />
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=veedy-dev&theme=default" alt="Stats" />
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=veedy-dev&theme=default&utcOffset=8" alt="Productive Time" />
     </td>
   </tr>
@@ -68,7 +68,7 @@ I thrive on turning complex problems into simple, elegant solutions.
 ## 🤝 Connect With Me
 
 <a href="https://discord.com/users/337585778140119041">
-  <img src="https://lanyard.cnrad.dev/api/337585778140119041?theme=light&bg=ebebeb&animated=false&hideDiscrim=true&borderRadius=30px" alt="Discord Presence" />
+  <img src="https://lanyard.cnrad.dev/api/337585778140119041?theme=light&bg=ffffff&animated=false&hideDiscrim=true&borderRadius=30px" alt="Discord Presence" />
 </a>
 
 </div>
