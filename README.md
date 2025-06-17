@@ -30,41 +30,31 @@ I thrive on turning complex problems into simple, elegant solutions.
 
 ## 📊 GitHub Analytics
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=veedy-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&include_orgs=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=veedy-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veedy-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&count_private=true&include_all_commits=true&include_orgs=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=veedy-dev&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&include_orgs=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=veedy-dev&theme=default&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veedy-dev&layout=compact&theme=default&hide_border=true&langs_count=12&count_private=true&include_all_commits=true&include_orgs=true" alt="Top Languages" />
 
 ## 📈 Contribution Metrics
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veedy-dev&theme=tokyonight" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veedy-dev&theme=default" alt="Profile Summary" />
 
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veedy-dev&theme=tokyonight" alt="Repos per Language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veedy-dev&theme=default" alt="Repos per Language" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veedy-dev&theme=tokyonight" alt="Most Commit Language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veedy-dev&theme=default" alt="Most Commit Language" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=veedy-dev&theme=tokyonight" alt="Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=veedy-dev&theme=default" alt="Stats" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=veedy-dev&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=veedy-dev&theme=default&utcOffset=8" alt="Productive Time" />
     </td>
   </tr>
 </table>
@@ -78,7 +68,7 @@ I thrive on turning complex problems into simple, elegant solutions.
 ## 🤝 Connect With Me
 
 <a href="https://discord.com/users/337585778140119041">
-  <img src="https://lanyard.cnrad.dev/api/337585778140119041" alt="Discord Presence" />
+  <img src="https://lanyard.cnrad.dev/api/337585778140119041?theme=light&bg=ebebeb&animated=false&hideDiscrim=true&borderRadius=30px" alt="Discord Presence" />
 </a>
 
 </div>
