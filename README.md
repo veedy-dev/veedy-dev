@@ -1,37 +1,84 @@
+<div align="center">
+
 # Hello, I'm Veedy 👋
-> Software Developer specializing in Bedrock API | Software Engineer
 
-## About Me
-I'm a software developer passionate about building applications that make life easier and more efficient. Interest in AI learning & services, to create intelligent and useful tools. I thrive on turning complex problems into simple, elegant solutions.
+</div>
+<div align="center">
 
-## 🛠️ Technologies & Tools
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+## 🚀 About Me
+I'm passionate about AI learning & services, creating intelligent and useful tools.  
+I thrive on turning complex problems into simple, elegant solutions.
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veedy-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&include_orgs=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veedy-dev&layout=compact&langs_count=8&theme=dark&count_private=true&include_all_commits=true&include_orgs=true"/>
-</p>
+</div>
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veedy-dev&theme=dark" alt="veedy-dev" />
-</p>
+<div align="center">
 
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://discord.com/users/337585778140119041">
-    <img src="https://lanyard.cnrad.dev/api/337585778140119041" alt="Discord Presence" />
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/veedy-dev/count.svg" />
-</p>
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=veedy-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&include_orgs=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=veedy-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veedy-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&count_private=true&include_all_commits=true&include_orgs=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+## 📈 Contribution Metrics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veedy-dev&theme=tokyonight" alt="Profile Summary" />
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veedy-dev&theme=tokyonight" alt="Repos per Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veedy-dev&theme=tokyonight" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=veedy-dev&theme=tokyonight" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=veedy-dev&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Connect With Me
+
+<a href="https://discord.com/users/337585778140119041">
+  <img src="https://lanyard.cnrad.dev/api/337585778140119041" alt="Discord Presence" />
+</a>
+
+</div>
